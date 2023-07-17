@@ -1,0 +1,11 @@
+.ab{
+    height: 900px;
+ background-size: cover;
+ background-repeat: no-repeat ; 
+ background-image: url(image\ sapin.jpg);
+}
+.bamo{
+    position: absolute;
+    left: 600px;
+    top: 400px;
+}
